@@ -6,7 +6,7 @@ A simple vim plug-in which executes eslint on a current buffer, made to practice
 
 [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 
-## useage
+## usage
 
 It exports a single lua function - `execEsLint` - which I map in init.vim:
 
